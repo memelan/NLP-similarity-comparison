@@ -1,0 +1,16 @@
+# Goal: Compare the similarity between 2 papers.
+
+
+# 1 Find out what already have
+
+# references:
+# https://dev.to/coderasha/compare-documents-similarity-using-python-nlp-4odp
+
+# Environment: FCC 7.2.0 on Linux x64, Anaconda Python 37.3
+
+# NLP Packages may need:
+
+
+# 2 Get a dataset
+
+# 3 Using python/
